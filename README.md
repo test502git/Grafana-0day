@@ -1,5 +1,6 @@
+# Grafana 任意文件读取漏洞poc
 # Grafana-0day
-Grafana 任意文件读取漏洞poc  基于nuclei验证，比较全的组件，同时验证linux与win，防止遗漏
+基于nuclei验证，比较全的组件，同时验证linux与win，防止遗漏
 
 
 ## 扫描组件
