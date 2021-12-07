@@ -1,9 +1,9 @@
 # Grafana-0day
-Grafana 任意文件读取漏洞poc  基于nuclei验证
+Grafana 任意文件读取漏洞poc  基于nuclei验证，比较全的组件
 
 
 ## 扫描组件
-alertGroups,alertlist,icon,alertmanager,annolist,barchart,bargauge,canvas,cloudwatch,dashboard,dashlist,debug,elasticsearch,gauge,geomap,gettingstarted,grafana-azure-monitor-datasource,grafana,graph,graphite,heatmap,histogram,influxdb,jaeger,live,logs,loki,mixed,mssql,mysql,news,nodeGraph,opentsdb,piechart,pluginlist,postgres,prometheus,stat,state-timeline,status-history,table-old,table,tempo,testdata,text,timeseries,welcome,xychart,zipkin,grafana-clock-panel
+alertGroups、alertlist、icon、alertmanager、annolist、barchart、bargauge、canvas、cloudwatch、dashboard、dashlist、debug、elasticsearch、gauge、geomap、gettingstarted、grafana-azure-monitor-datasource、grafana、graph、graphite、heatmap、histogram、influxdb、jaeger、live、logs、loki、mixed、mssql、mysql、news、nodeGraph、opentsdb、piechart、pluginlist、postgres、prometheus、stat、state-timeline、status-history、table-old、table、tempo、testdata、text、timeseries、welcome、xychart、zipkin、grafana-clock-panel
 
 ## 使用
 ```
